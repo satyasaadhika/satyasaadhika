@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SatyaSaadhika</h1>
+<h1 align="center">Hi 👋, I'm Priyanshu Maurya</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/satyasaadhika" target="blank"><img src="https://img.shields.io/twitter/follow/satyasaadhika?logo=twitter&style=for-the-badge" alt="satyasaadhika" /></a> </p>
