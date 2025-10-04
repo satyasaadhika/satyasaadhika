@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Responsive web design on PHP website, custom LMS using Moodle, and a new portfolio website with blog using Python/django**
 
-- 🌱 I’m currently learning **React, PHP, Moodle**
+- 🌱 I’m currently learning **React, PHP, Java, Python**
 
 - 👨‍💻 All of my projects are available at [https://satyasaadhika.github.io/](https://satyasaadhika.github.io/)
 
